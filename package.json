@@ -1,6 +1,6 @@
 {
   "name": "react-flutterwave-button",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A React button component for integrating Flutterwave payments.",
   "author": "Aromokeye",
   "license": "MIT",
@@ -11,6 +11,12 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "flutterwave",
+    "payment",
+    "nigeria",
+    "react"
+  ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
